@@ -1,2 +1,5 @@
 *.properties
 *.txt
+.scannerwork/
+!*.class
+.program/
