@@ -2,4 +2,4 @@
 *.txt
 .scannerwork/
 !*.class
-.program/
+program/
